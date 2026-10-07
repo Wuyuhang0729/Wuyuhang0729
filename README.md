@@ -1,33 +1,57 @@
-# 吴宇杭 · YuHang
+<h1 align="center">吴宇杭</h1>
 
-**Gameplay Programmer / Combat Designer** —— 做动作游戏的战斗手感与 Boss 遭遇，也写桌面端工具和 AI 小工具。
+<p align="center"><sub>YuHang&nbsp;&nbsp;·&nbsp;&nbsp;Gameplay Programmer&nbsp;&nbsp;·&nbsp;&nbsp;Combat Systems</sub></p>
 
-- 🎮 **主力方向**：战斗系统、Boss AI / 状态机、受击反馈、相机与时间感
-- 🧰 **顺手在做**：Unity 框架、渲染与 Shader、桌面端打包与发布流程
-- 🌱 **最近**：把「波点音乐」接成桌面播放器的在线音源（模组 + 宿主补丁 + CI + 安装包）
+---
 
-## Tech Stack
+<p align="center">把战斗手感做对。</p>
 
-**主力**　`Unity`　`C#`　`ShaderLab / HLSL`
+<p align="center"><sub>招式、受击反馈、Boss 阶段、相机与时间感。</sub></p>
 
-**也在用**　`Unreal`　`C++`　`TypeScript / Node`　`Electron`　`Blender`　`Git`　`PowerShell`
+---
 
-## Selected Projects
+<h3 align="center">精选项目</h3>
 
-| 项目 | 说明 | 技术 |
-| --- | --- | --- |
-| [**Test-RPG-Game**](https://github.com/Wuyuhang0729/Test-RPG-Game) | 学习向 RPG，聚焦**战斗系统**：招式、受击反馈、Boss 阶段、相机 | Unity · C# · ShaderLab |
-| [**GameJamDemo_BabyNoodle**](https://github.com/Wuyuhang0729/GameJamDemo_BabyNoodle) | Game Jam 限时作品 | Unity · C# · HLSL |
-| [**bobo-source**](https://github.com/Wuyuhang0729/bobo-source) | 把「波点音乐」接成 [Folia](https://github.com/chthollyphile/folia-major) 的在线音源模组：宿主补丁、单测、CI、安装包发布一条龙 | TypeScript · Node · Electron |
-| [**ai-pc-scanner-backend**](https://github.com/Wuyuhang0729/ai-pc-scanner-backend) | 技术验证：AI 辅助下低成本快速开发网页（服务器部署 + 模型接入） | Node.js · HTML/JS |
-| [**causal-diagnosis-agent**](https://github.com/Wuyuhang0729/causal-diagnosis-agent) | 多源因果推断 agent：根因分析、自动干预与闭环验证（demo 打包在仓库内） | 设计 + Demo |
+<h4 align="center"><a href="https://github.com/Wuyuhang0729/Test-RPG-Game">Test-RPG-Game&nbsp;›</a></h4>
 
-## Other Repos
+<p align="center"><sub>Unity&nbsp;·&nbsp;C#&nbsp;·&nbsp;ShaderLab</sub></p>
 
-Unity 框架与实现学习：`FrameworkDesign`、`UnityGameFramework`、`MyUnityFrameWork`（fork）　｜　`BirdFly`（练手小游戏）
+<p align="center">学习向 RPG，战斗系统是主体。</p>
 
-## Contact
+<h4 align="center"><a href="https://github.com/Wuyuhang0729/GameJamDemo_BabyNoodle">GameJamDemo_BabyNoodle&nbsp;›</a></h4>
 
-- GitHub：[@Wuyuhang0729](https://github.com/Wuyuhang0729)
+<p align="center"><sub>Unity&nbsp;·&nbsp;C#&nbsp;·&nbsp;HLSL</sub></p>
 
-<!-- 想公开邮箱 / 博客 / B站 等，加在这里 -->
+<p align="center">Game Jam 限时作品。在最短的时间里把玩法做完整。</p>
+
+<h4 align="center"><a href="https://github.com/Wuyuhang0729/bobo-source">bobo-source&nbsp;›</a></h4>
+
+<p align="center"><sub>TypeScript&nbsp;·&nbsp;Node&nbsp;·&nbsp;Electron</sub></p>
+
+<p align="center">把「波点音乐」接成 Folia 的在线音源。补丁、单测、CI、安装包，一条链路走通。</p>
+
+<h4 align="center"><a href="https://github.com/Wuyuhang0729/ai-pc-scanner-backend">ai-pc-scanner-backend&nbsp;›</a></h4>
+
+<p align="center"><sub>Node.js&nbsp;·&nbsp;HTML / JavaScript</sub></p>
+
+<p align="center">一次验证：有 AI 辅助，网页项目能多快落地。</p>
+
+<h4 align="center"><a href="https://github.com/Wuyuhang0729/causal-diagnosis-agent">causal-diagnosis-agent&nbsp;›</a></h4>
+
+<p align="center"><sub>因果推断&nbsp;·&nbsp;Agent&nbsp;·&nbsp;Demo</sub></p>
+
+<p align="center">多源因果推断。根因分析、自动干预、闭环验证。</p>
+
+---
+
+<h3 align="center">技术栈</h3>
+
+<p align="center"><b>主力</b>&nbsp;&nbsp;Unity&nbsp;·&nbsp;C#&nbsp;·&nbsp;ShaderLab / HLSL</p>
+
+<p align="center"><b>也在用</b>&nbsp;&nbsp;Unreal&nbsp;·&nbsp;C++&nbsp;·&nbsp;TypeScript / Node&nbsp;·&nbsp;Blender</p>
+
+<p align="center"><sub>Unity 框架与实现学习：FrameworkDesign、UnityGameFramework、MyUnityFrameWork。</sub></p>
+
+---
+
+<p align="center"><sub><a href="https://github.com/Wuyuhang0729">@Wuyuhang0729</a>&nbsp;&nbsp;·&nbsp;&nbsp;© 2026 吴宇杭</sub></p>
