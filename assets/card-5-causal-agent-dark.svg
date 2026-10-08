@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 190" width="100%" role="img" aria-label="causal-diagnosis-agent，因果推断 · Agent · Demo，多源因果推断 agent。">
+  <title>causal-diagnosis-agent —— 多源因果推断 agent。</title>
+  <desc>静态降级：内容在无动画环境下同样完整可见</desc>
+  <defs>
+    <linearGradient id="flow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2997ff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#2997ff"/>
+      <stop offset="1" stop-color="#2997ff" stop-opacity="0"/>
+      <animate attributeName="x1" values="-1;0.2;-1" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;1.2;0" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.9s" begin="0.6s" fill="freeze"/>
+     <animateTransform attributeName="transform" type="translate" values="0 14;0 0" dur="0.9s" begin="0.6s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.22 0.61 0.36 1"/>
+    <text x="600" y="62" text-anchor="middle" font-size="30" font-weight="500" letter-spacing="1" fill="#f5f5f7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">causal-diagnosis-agent  <tspan fill="#2997ff">›</tspan></text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="1s" begin="0.78s" fill="freeze"/>
+    <text x="600" y="100" text-anchor="middle" font-size="15" font-weight="400" letter-spacing="3" fill="#a1a1a6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">因果推断 · Agent · Demo</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="1s" begin="0.8999999999999999s" fill="freeze"/>
+    <text x="600" y="146" text-anchor="middle" font-size="19" font-weight="300" letter-spacing="1" fill="#98989d" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">多源因果推断 agent。</text>
+  </g>
+  <line y1="176" y2="176" x1="330" x2="330" stroke="#3a3a3c" stroke-width="1">
+       <animate attributeName="x2" values="330;870" dur="1.3s" begin="1.15s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.22 0.61 0.36 1"/>
+     </line>
+     <line y1="176" y2="176" x1="330" x2="330" stroke="url(#flow)" stroke-width="1.6" stroke-linecap="round" opacity="0">
+       <animate attributeName="opacity" values="0;1" dur="0.5s" begin="2.45s" fill="freeze"/>
+       <animate attributeName="x2" values="330;870" dur="1.3s" begin="1.15s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.22 0.61 0.36 1"/>
+     </line>
+</svg>
