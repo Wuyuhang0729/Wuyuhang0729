@@ -8,31 +8,31 @@
 
 <p align="center"><sub>Unity&nbsp;&nbsp;·&nbsp;&nbsp;C#&nbsp;&nbsp;·&nbsp;&nbsp;ShaderLab</sub></p>
 
-<p align="center">学习向 RPG，战斗系统是主体。</p>
+<p align="center">学习向 RPG，做战斗系统。</p>
 
 <h3 align="center"><a href="https://github.com/Wuyuhang0729/GameJamDemo_BabyNoodle">GameJamDemo_BabyNoodle&nbsp;&nbsp;›</a></h3>
 
 <p align="center"><sub>Unity&nbsp;&nbsp;·&nbsp;&nbsp;C#&nbsp;&nbsp;·&nbsp;&nbsp;HLSL</sub></p>
 
-<p align="center">Game Jam 限时作品。在最短的时间里把玩法做完整。</p>
+<p align="center">Game Jam 限时作品。</p>
 
 <h3 align="center"><a href="https://github.com/Wuyuhang0729/bobo-source">bobo-source&nbsp;&nbsp;›</a></h3>
 
 <p align="center"><sub>TypeScript&nbsp;&nbsp;·&nbsp;&nbsp;Node&nbsp;&nbsp;·&nbsp;&nbsp;Electron</sub></p>
 
-<p align="center">把「波点音乐」接成 Folia 的在线音源。补丁、单测、CI、安装包，一条链路走通。</p>
+<p align="center">Folia 的波点音乐音源。</p>
 
 <h3 align="center"><a href="https://github.com/Wuyuhang0729/ai-pc-scanner-backend">ai-pc-scanner-backend&nbsp;&nbsp;›</a></h3>
 
 <p align="center"><sub>Node.js&nbsp;&nbsp;·&nbsp;&nbsp;HTML / JavaScript</sub></p>
 
-<p align="center">一次验证：有 AI 辅助，网页项目能多快落地。</p>
+<p align="center">AI 辅助快开网页的技术验证。</p>
 
 <h3 align="center"><a href="https://github.com/Wuyuhang0729/causal-diagnosis-agent">causal-diagnosis-agent&nbsp;&nbsp;›</a></h3>
 
 <p align="center"><sub>因果推断&nbsp;&nbsp;·&nbsp;&nbsp;Agent&nbsp;&nbsp;·&nbsp;&nbsp;Demo</sub></p>
 
-<p align="center">多源因果推断。根因分析、自动干预、闭环验证。</p>
+<p align="center">多源因果推断 agent。</p>
 
 <h2 align="center">技术栈</h2>
 
