@@ -4,7 +4,7 @@
 
 ---
 
-<p align="center">把战斗手感做对。</p>
+<p align="center">保持学习。</p>
 
 <p align="center"><sub>招式、受击反馈、Boss 阶段、相机与时间感。</sub></p>
 
