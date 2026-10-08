@@ -38,14 +38,14 @@
   <g opacity="0">
     <animate attributeName="opacity" values="0;1" dur="1.4s" begin="1.5s" fill="freeze"/>
     <animateTransform attributeName="transform" type="translate" values="0 12;0 0" dur="1.4s" begin="1.5s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.22 0.61 0.36 1"/>
-    <text x="600" y="312" text-anchor="middle" font-size="34" font-weight="300" letter-spacing="2" fill="#1d1d1f"
-          font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">把战斗手感做对。</text>
+    <text x="600" y="312" text-anchor="middle" font-size="46" font-weight="300" letter-spacing="4" fill="#1d1d1f"
+          font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">保持学习</text>
   </g>
 
   <!-- 副标语 -->
   <g opacity="0">
     <animate attributeName="opacity" values="0;1" dur="1.4s" begin="1.95s" fill="freeze"/>
-    <text x="600" y="356" text-anchor="middle" font-size="19" font-weight="400" letter-spacing="1.6" fill="#86868b"
-          font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">招式 · 受击反馈 · Boss 阶段 · 相机与时间感</text>
+    <text x="600" y="356" text-anchor="middle" font-size="21" font-weight="400" letter-spacing="3" fill="#86868b"
+          font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">机制 · 相机 · 演出 · 节奏 · 反馈 · 信息</text>
   </g>
 </svg>
